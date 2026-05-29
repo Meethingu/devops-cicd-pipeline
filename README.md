@@ -107,7 +107,7 @@ kubectl get service devops-app-service  # Get external IP
 
 ---
 
-*This pipeline runs the same architecture I use at scale for JioCinema's IPL live-streaming infrastructure at Reliance Jio, serving millions of concurrent users.*
+*This pipeline runs the same architecture I use at scale for live-streaming infrastructure at Reliance Jio, serving millions of concurrent users.*
 
 ---
 ⭐ Star this repo if it helped you!
